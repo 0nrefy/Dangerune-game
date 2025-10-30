@@ -38,3 +38,6 @@ start[[:space:]]a[[:space:]]working[[:space:]]area[[:space:]](see[[:space:]]also
 [[:space:]][[:space:]][[:space:]]tag[[:space:]][[:space:]][[:space:]][[:space:]][[:space:]][[:space:]][[:space:]][[:space:]]Create,[[:space:]]list,[[:space:]]delete[[:space:]]or[[:space:]]verify[[:space:]]a[[:space:]]tag[[:space:]]object[[:space:]]signed[[:space:]]with[[:space:]]GPG filter=lfs diff=lfs merge=lfs -text
 [[:space:]][[:space:]][[:space:]]fetch[[:space:]][[:space:]][[:space:]][[:space:]][[:space:]][[:space:]]Download[[:space:]]objects[[:space:]]and[[:space:]]refs[[:space:]]from[[:space:]]another[[:space:]]repository filter=lfs diff=lfs merge=lfs -text
 concept[[:space:]]guides.[[:space:]]See[[:space:]]'git[[:space:]]help[[:space:]]<command>'[[:space:]]or[[:space:]]'git[[:space:]]help[[:space:]]<concept>' filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+.app filter=lfs diff=lfs merge=lfs -text
+*.app filter=lfs diff=lfs merge=lfs -text
