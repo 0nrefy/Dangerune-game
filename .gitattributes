@@ -1,3 +1,4 @@
 *.exe filter=lfs diff=lfs merge=lfs -text
 *.app filter=lfs diff=lfs merge=lfs -text
 *.x86_64 filter=lfs diff=lfs merge=lfs -text
+C:/Dangerune/Dangerune-game/macOS/Dangerune.app/Contents/MacOS/Dangerune(Git) filter=lfs diff=lfs merge=lfs -text
